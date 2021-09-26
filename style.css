@@ -126,10 +126,10 @@ footer{
     
     
     .remaining-time{
-        left: 0px;
-        top: 170px;
+        left: 8px;
+        top: 153px;
         width: 360px;
-        margin-left: 5px;
+        /* margin-left: 5px; */
         /* padding: 2px; */
         
         
